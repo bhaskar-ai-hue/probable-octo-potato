@@ -2,7 +2,7 @@
 # 🚀 Hi, I'm Bhaskar
 ## Principal Enterprise Architect & AI Systems Engineer
 
-Over **20 years** of hands-on experience architecting high-performance distributed systems, designing scalable corporate databases, and engineering cutting-edge **Agentic AI & Multi-Agent Routing RAG pipelines**. 
+Over **16 years** of hands-on experience architecting high-performance distributed systems, designing scalable corporate databases, and engineering cutting-edge **Agentic AI & Multi-Agent Routing RAG pipelines**. 
 
 I partner with organizations to scale technology infrastructure, deploy secure local LLM networks, and bridge the gap between complex engineering and elegant, visual user experiences.
 
